@@ -9,9 +9,9 @@ Les fonctionnalités incluent :
 
 Technologies :
 
-    Python (Numba, CUDA, CuPy)
+    Python (Numba)
     Matplotlib pour la visualisation
-    Modèles physiques avancés et parallélisme GPU.
+    Modèles physiques avancés et parallélisme CPU.
 
 Usage :
 Conçu pour la recherche scientifique, l'enseignement, et les démonstrations visuelles des phénomènes physiques liés à l'accélération d'électrons dans les plasmas.
